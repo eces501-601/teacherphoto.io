@@ -1,0 +1,7 @@
+body{
+    background: rgb(246,175,23);
+    background: linear-gradient(50deg, rgba(246,175,23,1) 38%, rgba(253,187,45,1) 59%); 
+    
+}
+header{}
+img {width: 30%; padding: 0px 20px; margin-top: 50px;}
