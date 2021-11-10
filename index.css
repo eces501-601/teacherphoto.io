@@ -1,0 +1,87 @@
+body {
+  background: rgb(246, 175, 23);
+  background: linear-gradient(50deg, rgba(246, 175, 23, 1) 38%, rgba(253, 187, 45, 1) 59%);
+  margin: 0px;
+}
+
+header {
+  margin: 0px;
+}
+
+nav {
+  margin: 0px;
+  background-color: #fbff00c4;
+  padding: 10px 20px;
+  font-size: 20px;
+  opacity: 0.9;
+}
+
+nav a:hover {
+  padding: 5px 5px;
+  background-color: white;
+  transition: 0.1s;
+}
+
+img {
+  width: 30%;
+  padding: 0px 20px;
+  margin-top: 50px;
+}
+
+/* unvisited link */
+
+a {
+  text-decoration: none;
+}
+
+/* 顏色 */
+
+a:visited {
+  color: rgb(15, 189, 228);
+}
+
+/* 碰到顏色 */
+
+a:hover {
+  color: rgb(0, 0, 0);
+}
+
+/*點即顏色*/
+
+a:active {
+  color: rgba(0, 255, 242, 0.624);
+}
+
+.qrcode {
+  background-color: rgb(106, 98, 98);
+}
+
+.qrcode h3 {
+  color: #00ffdd;
+  padding: 0 20px;
+}
+
+.qrcode div{
+width: 50%;
+height: 50%;
+}
+#t1{
+  margin: 0px 10px; 
+  width: 300px;
+  background-color: #fff7049f;
+  padding: 50px 0px;
+}
+#t11{
+  padding:10px 0px;
+}
+hr{ color: black;}
+#t2{
+  margin: 20px 10px; 
+  width: 300px;
+height: 50px;
+  background-color: #fff7049f;
+  padding: 50px 0px;
+}
+#t22{
+  padding:10px 0px;
+}
